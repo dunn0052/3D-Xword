@@ -1,2 +1,2 @@
-# 3D-Xword
+# CrossCube
 3D Crossword Puzzle
